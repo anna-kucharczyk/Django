@@ -1,2 +1,2 @@
-# Django
+# MyProject
 New Django project
